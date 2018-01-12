@@ -134,10 +134,6 @@ class Dating_Clazz(object):
         print erro_count
 
 
-
-
-
-
 if __name__ == '__main__':
     dating_clazz = Dating_Clazz()
     # group,labels = dating_clazz.create_dataset()
